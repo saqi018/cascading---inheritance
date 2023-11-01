@@ -1,0 +1,52 @@
+/* Last Rule */
+
+p {
+
+    color: blueviolet;
+    border: 2px solid red;
+}
+
+p {
+
+    color: rgb(245, 17, 17);
+    border: 2px solid yellow;
+
+}
+
+/* Specificity */
+
+* {
+
+    color: rgb(14, 114, 202);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+p {
+
+    color: goldenrod;
+}
+
+p#para {
+
+
+    color: green;
+}
+
+
+
+/* important Rules */
+.spann {
+
+    background-color: blanchedalmond !important;
+    color: rgb(51, 51, 1);
+}
+
+.spann {
+
+    background-color: rgb(157, 140, 13);
+    color: rgb(40, 53, 7);
+}
+
+
+
+ 
